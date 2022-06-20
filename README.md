@@ -1,6 +1,6 @@
 ### Hi, I’m Chi 👋🏽
 
-I’m a student majoring in math with interest in data science and data engineering.
+I’m a student majoring in math with interest in data science.
 
 - ☁️ I’m currently learning statistics, probability, and machine learning in Python.
 - 🤝🏽 I’m open to and looking for data science internship opportunities.
